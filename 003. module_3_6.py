@@ -15,8 +15,8 @@ def calculate_structure_sum(a):
         for c in a:
             calculate_structure_sum(c)
 
-
     return b
+
 
 data_structure = [
 [1, 2, 3],
